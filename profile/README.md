@@ -2,7 +2,8 @@
 
 
 > [!IMPORTANT]
-> Mediolano dapp is in constant development and the current version runs on Starknet's Sepolia devnet. Use for testing purposes only. 
+> Mediolano is in constant development and the current version runs on Starknet's Sepolia devnet. Use for testing purposes only. 
+
 
 ## Programmable IP for the Integrity Web
 
@@ -14,7 +15,9 @@ With zero fees, Mediolano’s open-source protocol and dapp ensures immediate to
 
 The platform also introduces advanced monetization, enabling diverse approaches to licensing, royalties, and financing creators economies. These tools are designed to offer integrations with various ecosystems, including communities, games, and AI agents, unlocking the true power of Programmable IP for the Integrity Web.
 
+
 ![Mediolano.app](https://mediolano.app/wp-content/uploads/2025/03/Mediolano-Dapp-20250310alpha.png)
+
 
 ### Key Features
 
@@ -27,8 +30,47 @@ The platform also introduces advanced monetization, enabling diverse approaches 
 - High-Speed & Low-Cost: Leverage Starknet's unparalleled speed and cost-efficiency with ZERO FEES on Mediolano Protocol.
 
 
-<h3 align="center">
-  <a href="https://mediolano.xyz">Learn more</a>
-  &nbsp; | &nbsp;
-  <a href="https://ip.mediolano.app">Open Dapp</a>
-</h3>
+## Roadmap
+
+- [x] Starknet Ignition **24.9**
+
+- [x] MIP Protocol @ Starknet Sepolia **24.11**
+
+- [x] Mediolano Dapp @ Starknet Sepolia **24.11**
+
+- [x] Programmable IP Contracts **25.02**
+
+- [x] MIP Dapp @ Starknet Sepolia **25.06**
+
+- [ ] MIP Protocol v2 @ Starknet Sepolia **25.06**
+
+- [ ] MIP Protocol v2 @ Starknet Mainnet **25.07**
+
+- [ ] MIP Dapp @ Starknet Mainnet **25.07**
+
+- [ ] Mediolano Dapp @ Starknet Mainnet **25.07**
+
+
+
+## Contributing
+
+We are building open-source Integrity Web with the amazing **OnlyDust** platform. Check https://app.onlydust.com/p/mediolano for more information.
+
+We also have a Telegram group focused to support development: https://t.me/mediolanoapp
+
+Ccontributions are **greatly appreciated**. If you have a feature or suggestion that would our plattform better, please fork the desired repo and create a pull request with the tag "enhancement".
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/Feature`)
+3. Commit your Changes (`git commit -m 'Add some Feature'`)
+4. Push to the Branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+## Quick links:
+
+<br>
+<a href="https://ip.mediolano.app">Mediolano Dapp (Sepolia)</a>
+<br>
+<a href="https://mediolano.xyz">Website mediolano.xyz</a>
+<br>
+<a href="https://t.me/MediolanoStarknet">Telegram</a> | <a href="https://discord.gg/NhqdTvyA">Discord</a> | <a href="https://x.com/mediolanoapp">X / Twitter</a>
