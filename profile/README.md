@@ -6,14 +6,15 @@
 
 
 ## Programmable IP for the Integrity Web
+#### Fully control and make money from your IP
 
-Mediolano empowers creators, artists and organizations to make money from their content, without requiring them to know anything about crypto.
+Mediolano is a permissionless intellectual property platform designed to empower creators, artists, and organizations to protect and monetize their content—without needing any prior knowledge of crypto.
 
-With permissionless services for Programmable Intellectual Property (IP), leveraging Starknet’s high-speed, low-cost transactions and zero-knowledge proofs, Mediolano provides a comprehensive suite of solutions to tokenize and monetize assets efficiently, transparently and with sovereignty.
+Built on Starknet, Mediolano harnesses fast, cost-effective transactions and zero-knowledge proofs to offer a permissionless and programmable framework for Intellectual Property (IP). Our open protocol makes it simple to tokenize and monetize digital assets with transparency, efficiency, and full sovereignty.
 
-With zero fees, Mediolano’s open-source protocol and dapp ensures immediate tokenization and protection under the Berne Convention for the Protection of Literary and Artistic Works (1886), covering 181 countries. This framework guarantees global recognition of authorship, providing verifiable proof of ownership for 50 to 70 years, depending on jurisdiction.
+Through its zero-fee, open-source protocol and dApp, Mediolano enables instant tokenization and protection of creative works in accordance with the Berne Convention (1886), which spans 181 countries. This legal infrastructure guarantees global recognition of authorship and provides verifiable proof of ownership for 50 to 70 years, depending on the jurisdiction.
 
-The platform also introduces advanced monetization, enabling diverse approaches to licensing, royalties, and financing creators economies. These tools are designed to offer integrations with various ecosystems, including communities, games, and AI agents, unlocking the true power of Programmable IP for the Integrity Web.
+Our tools are designed for seamless integration with diverse ecosystems—including communities, games, and AI agents—tapping into the full potential of Programmable IP for a more equitable, creator-led digital economy.
 
 
 ![Mediolano.app](https://mediolano.app/wp-content/uploads/2025/03/Mediolano-Dapp-20250310alpha.png)
