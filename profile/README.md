@@ -13,10 +13,7 @@ Built on Starknet, Mediolano harnesses fast, cost-effective transactions and zer
 
 Through its zero-fee, open-source protocol and dApp, Mediolano enables instant tokenization and protection of creative works in accordance with the Berne Convention (1886), which spans 181 countries. This legal infrastructure guarantees global recognition of authorship and provides verifiable proof of ownership for 50 to 70 years, depending on the jurisdiction.
 
-Our tools are designed for seamless integration with diverse ecosystems—including communities, games, and AI agents—tapping into the full potential of Programmable IP for a more equitable, creator-led digital economy.
-
-
-![Mediolano.app](https://mediolano.app/wp-content/uploads/2025/03/Mediolano-Dapp-20250310alpha.png)
+Our tools are designed for integration with diverse ecosystems—including communities, games, and AI agents—tapping into the full potential of Programmable IP for a more equitable, creator-led digital economy.
 
 
 ### Key Features
@@ -28,6 +25,10 @@ Our tools are designed for seamless integration with diverse ecosystems—includ
 - Enhanced Registration & Protection: Use templates and smart contracts to take charge of your IP assets in the digital realm with immutable and transparent ownership.
 
 - High-Speed & Low-Cost: Leverage Starknet's unparalleled speed and cost-efficiency with ZERO FEES on Mediolano Protocol.
+
+
+![Mediolano.app](https://mediolano.app/wp-content/uploads/2025/03/Mediolano-Dapp-20250310alpha.png)
+
 
 ## Mediolano
 
