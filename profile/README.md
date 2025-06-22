@@ -30,6 +30,11 @@ Our tools are designed for seamless integration with diverse ecosystems—includ
 
 - High-Speed & Low-Cost: Leverage Starknet's unparalleled speed and cost-efficiency with ZERO FEES on Mediolano Protocol.
 
+# Mediolano - Programmable IP for the Integrity Web
+
+<a href="https://mediolano.xyz">Website mediolano.xyz</a>
+
+Governed by a DAO (Decentralized Autonomous Organization), Mediolano champions transparent, decentralized decision-making in alignment with core web3 and cypherpunk principles. Our mission is to foster long-term value and sustainability for the entire ecosystem—from users to partners—by operating in the collective interest of the network.
 
 ## Roadmap
 
