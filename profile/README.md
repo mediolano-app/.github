@@ -6,7 +6,6 @@
 
 
 ## Programmable IP for the Integrity Web
-#### Fully control and make money from your IP
 
 Mediolano is a permissionless intellectual property platform designed to empower creators, artists, and organizations to protect and monetize their content—without needing any prior knowledge of crypto.
 
@@ -30,7 +29,7 @@ Our tools are designed for seamless integration with diverse ecosystems—includ
 
 - High-Speed & Low-Cost: Leverage Starknet's unparalleled speed and cost-efficiency with ZERO FEES on Mediolano Protocol.
 
-# Mediolano - Programmable IP for the Integrity Web
+## Mediolano
 
 <a href="https://mediolano.xyz">Website mediolano.xyz</a>
 
