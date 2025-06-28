@@ -79,4 +79,4 @@ Ccontributions are **greatly appreciated**. If you have a feature or suggestion 
 <br>
 <a href="https://mediolano.xyz">Website mediolano.xyz</a>
 <br>
-<a href="https://t.me/MediolanoStarknet">Telegram</a> | <a href="https://discord.gg/NhqdTvyA">Discord</a> | <a href="https://x.com/mediolanoapp">X / Twitter</a>
+<a href="https://t.me/MediolanoStarknet">Telegram</a> | <a href="https://www.youtube.com/@Mediolano-app">YouTube</a> | <a href="https://x.com/mediolanoapp">X / Twitter</a>
