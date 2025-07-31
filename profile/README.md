@@ -27,9 +27,6 @@ Our tools are designed for integration with diverse ecosystems—including commu
 - High-Speed & Low-Cost: Leverage Starknet's unparalleled speed and cost-efficiency with ZERO FEES on Mediolano Protocol.
 
 
-![Mediolano.app](https://mediolano.app/wp-content/uploads/2025/03/Mediolano-Dapp-20250310alpha.png)
-
-
 ## Mediolano
 
 <a href="https://mediolano.xyz">Website mediolano.xyz</a>
