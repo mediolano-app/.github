@@ -53,15 +53,15 @@ Governed by a DAO (Decentralized Autonomous Organization), Mediolano champions t
 
 - [X] MIP Collections Protocol @ Starknet Mainnet **25.08**
 
-- [ ] Mediolano Dapp @ Starknet Mainnet **25.09**
+- [ ] Mediolano Dapp @ Starknet Mainnet **25.10**
 
-- [ ] Medialane Protocol @ Starknet Sepolia **25.08**
+- [ ] Medialane Protocol @ Starknet Sepolia **25.11**
 
-- [ ] Medialane Dapp @ Starknet Sepolia **25.09**
+- [ ] Medialane Dapp @ Starknet Sepolia **25.11**
 
-- [ ] Medialane Protocol @ Starknet Mainnet **25.11**
+- [ ] Medialane Protocol @ Starknet Mainnet **25.12**
 
-- [ ] Medialane Dapp @ Starknet Mainnet **25.11**
+- [ ] Medialane Dapp @ Starknet Mainnet **25.12**
 
 
 
