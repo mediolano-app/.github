@@ -15,21 +15,11 @@ Through its zero-fee, open-source protocol and dApp, Mediolano enables instant t
 
 Our tools are designed for integration with diverse ecosystems—including communities, games, and AI agents—tapping into the full potential of Programmable IP for a more equitable, creator-led digital economy.
 
-
-### Key Features
-
-- Programmable IP: Transform intelligence works into digital assets that can be managed, traded, and monetized. This includes everything from images, music, NFTs, papers, video and real-world assets.
-
-- Immutable Ownership & Attribution: blockchain ensures clear sovereignty, verifiable ownership and attribution for every piece of IP, safeguarding your property.
-
-- Enhanced Registration & Protection: Use templates and smart contracts to take charge of your IP assets in the digital realm with immutable and transparent ownership.
-
-- High-Speed & Low-Cost: Leverage Starknet's unparalleled speed and cost-efficiency with ZERO FEES on Mediolano Protocol.
-
-
-## Mediolano
-
 <a href="https://mediolano.xyz">Website mediolano.xyz</a>
+
+<a href="https://ip.mediolano.app">IP Creator Dapp</a>
+
+<a href="https://mediolano.xyz/mip">MIP MObile</a>
 
 Governed by a DAO (Decentralized Autonomous Organization), Mediolano champions transparent, decentralized decision-making in alignment with core web3 and cypherpunk principles. Our mission is to foster long-term value and sustainability for the entire ecosystem—from users to partners—by operating in the collective interest of the network.
 
@@ -67,7 +57,7 @@ Governed by a DAO (Decentralized Autonomous Organization), Mediolano champions t
 
 ## Contributing
 
-We are building open-source Integrity Web with the amazing **OnlyDust** platform. Check https://app.onlydust.com/p/mediolano for more information.
+We are building Programmable IP for Integrity Web = open-source!
 
 We also have a Telegram group focused to support development: https://t.me/mediolanoapp
 
