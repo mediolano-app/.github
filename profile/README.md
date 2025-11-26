@@ -1,10 +1,6 @@
 ![medialane-screen](https://github.com/user-attachments/assets/d700f017-db57-47a8-bd07-7fc6a7728fd2)
 
 
-> [!IMPORTANT]
-> Mediolano is in constant development and the current version runs on Starknet's Sepolia devnet. Use for testing purposes only. 
-
-
 ## Programmable IP for the Integrity Web
 
 Mediolano is a permissionless intellectual property platform designed to empower creators, artists, and organizations to protect and monetize their content—without needing any prior knowledge of crypto.
@@ -43,16 +39,7 @@ Governed by a DAO (Decentralized Autonomous Organization), Mediolano champions t
 
 - [X] MIP Collections Protocol @ Starknet Mainnet **25.08**
 
-- [ ] Mediolano Dapp @ Starknet Mainnet **25.10**
-
-- [ ] Medialane Protocol @ Starknet Sepolia **25.11**
-
-- [ ] Medialane Dapp @ Starknet Sepolia **25.11**
-
-- [ ] Medialane Protocol @ Starknet Mainnet **25.12**
-
-- [ ] Medialane Dapp @ Starknet Mainnet **25.12**
-
+- [ ] Mediolano Dapp @ Starknet Mainnet **25.12**
 
 
 ## Contributing
