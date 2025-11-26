@@ -1,6 +1,6 @@
-![Mediolano.app](https://mediolano.app/wp-content/uploads/2025/03/Mediolano-Dapp-20250310alpha.png)
 
 > [!IMPORTANT]
+> 
 > Mediolano dapp is in constant development and the current version runs on Starknet's Sepolia devnet. Use for testing purposes only. 
 
 ## Programmable IP for the Integrity Web
@@ -26,8 +26,42 @@ Mediolano aims to serve as the intellectual property provider for the integrity 
 
 [![YouTube](http://i.ytimg.com/vi/uvskLmxmt7M/hqdefault.jpg)](https://www.youtube.com/watch?v=uvskLmxmt7M)
 
+## Roadmap
+
+- [x] Starknet Ignition **24.9**
+
+- [x] MIP Protocol @ Starknet Sepolia **24.11**
+
+- [x] Mediolano Dapp @ Starknet Sepolia **24.11**
+
+- [x] Programmable IP Contracts **25.02**
+
+- [x] MIP Dapp @ Starknet Sepolia **25.06**
+
+- [X] MIP Protocol @ Starknet Mainnet **25.07**
+
+- [X] MIP Collections Protocol @ Starknet Sepolia **25.07**
+
+- [X] MIP Dapp @ Starknet Mainnet **25.08**
+
+- [X] MIP Collections Protocol @ Starknet Mainnet **25.08**
+
+- [X] MIP Mobile @ Android Google Play **25.09**
+
+- [X] MIP Mobile @ iPhone iOS App Store **25.12**
+
+- [ ] Mediolano Dapp @ Starknet Mainnet **25.12**
+
+- [ ] Medialane Protocol @ Starknet Sepolia **25.12**
+
+- [ ] Medialane Dapp @ Starknet Sepolia **25.12**
+
+- [ ] Medialane Protocol @ Starknet Mainnet **26.02**
+
+- [ ] Medialane Dapp @ Starknet Mainnet **26.02**
+
 <h3 align="center">
-  <a href="https://mediolano.app">Learn more</a>
+  <a href="https://mediolano.xyz">Learn more at Mediolano.xyz</a>
   &nbsp; | &nbsp;
-  <a href="https://ip.mediolano.app">Open Dapp</a>
+  <a href="https://ip.mediolano.app">IP Creator Dapp @ Mediolano.app</a>
 </h3>
