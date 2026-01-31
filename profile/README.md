@@ -1,7 +1,17 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a2d965a-1d4c-45fe-963b-f9a32f674c00" />
 
 > [!IMPORTANT]
-> Mediolano dapp is live on Starknet mainnet for tests. 
+> Mediolano dapp is live on Starknet mainnet for tests.
+
+## Programmable IP for the Integrity Web
+
+Mediolano provides seamless tokenization services for intellectual property, leveraging Starknet’s unparalleled high-speed, low-cost, and smart contract intelligence for digital assets to empower creators, collectors, and organizations to protect and monetize their IP assets effectively.
+
+Registering intellectual property on Mediolano means your asset is automatically tokenized and protected in 181 countries, according to The Berne Convention for the Protection of Literary and Artistic Works, adopted in 1886. Mediolano assets generate Proof of Ownership to guarantee recognition of the authorship of IP without the need for registration with the World Intellectual Property Organization (WIPO).
+
+Mediolano offers permissionless services with ZERO FEES for Programmable IP, such as artwork, videos, music, literary works, AI models, software, and other works of authorship. The copyright is immutable time stamped on Starknet public blockchain, and settled on Ethereum, providing Proof of Ownership valid for 50-70 years, in accord with the legal jurisdiction. Tokenizing intellectual property with smart contracts opens the door to countless opportunities, from integrations with communities and games to monetization with AI Agents.
+
+Mediolano aims to serve as the intellectual property provider for the integrity web, a public good to empower programmable IP to anyone. By integrating standards, innovative technology and decentralization, Mediolano ensures interoperability, security and sovereignty. Our platform is tailored for the tokenization and management of intellectual property. Feel free to reach out!
 
 Quick links:
 - [IP Creator Dapp](https://ip.mediolano.app)
@@ -30,10 +40,6 @@ Governed by a DAO (Decentralized Autonomous Organization), Mediolano champions t
 - **High-Speed & Low-Cost**: Leverage Starknet's ZK-rollup technology for unparalleled speed and negligible fees.
 
 - **Gas Fee Abstraction**: Integrated AVNU Paymaster to provide a seamless user experience by abstracting gas costs. (Experimental)
-
-## IP Creator Dapp Architecture
-
-The IP Creator Dapp is built as permissionless, decentralized application leveraging the full power of Starknet and web3 to provide trully ownership.
 
 ## Roadmap
 
