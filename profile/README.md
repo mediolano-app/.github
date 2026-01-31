@@ -27,7 +27,7 @@ Governed by a DAO (Decentralized Autonomous Organization), Mediolano champions t
 
 - **Programmable IP**: Transform creative works (images, music, videos, AI models, research papers) into programmable digital assets that can be managed, tracked, and monetized.
 
--**Mediolano Protocol**: Programmable IP foundation of the Integrity Web. A high-performance, modular infrastructure for programmable intellectual property onchain.
+- **Mediolano Protocol**: Programmable IP foundation of the Integrity Web. A high-performance, modular infrastructure for programmable intellectual property onchain.
 
 - **Remix & Derivatives**: Enable creative remixing of intellectual property while maintaining clear lineage and attribution through smart contracts.
 
